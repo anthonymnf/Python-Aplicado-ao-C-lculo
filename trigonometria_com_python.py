@@ -1,4 +1,5 @@
 import numpy as np
+# Na numpy os ângulos são sempre em radianos
 angle = np.pi/6
 x1 = np.cos(angle)
 x2 = np.sin(angle)
